@@ -124,6 +124,39 @@ section.touch-title {
    height: 102px;
 }
 
+.touch input{
+   width: 497px;
+   height: 70px;
+   margin-bottom: 10px;
+}
+.touch textarea{
+   width: 497px;
+   height: 135px;
+   margin-bottom: 10px;
+}
 
+.contactBtn {
+    width: 497px;
+    height: 62px;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border: none;
+}
 
+.footer-section{
+   height: 221px;
+    width: 538px;
+    text-align: center;
+}
+.footer-title {
+    font-size: 100px;
+    color: #4E47FF;
+    line-height: 0px;
+}
 /*  fooder */
+
+ul {
+    display: flex;
+    justify-content: space-between;
+}
