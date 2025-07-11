@@ -1,0 +1,129 @@
+body{
+   justify-items: center;
+}
+.open-sans-normal{
+    font-family:"open sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:"wdth"100;
+}
+.btn-primary{
+    background-color:#4E47FF;
+    border-radius:5px;
+
+
+}
+
+.header{
+    background: url('/Assets/Hero-bg.png');
+   width:  1440px;;
+    height: 698px;
+   margin-bottom: 40px;
+    
+}
+/* nav style */
+.nav-title{
+    margin:0 50px;
+}
+.control{
+       display:flex;
+       align-items:center;
+       justify-content:space-between;
+       gap: 158px;
+}
+.controler{
+    color:#4E47FF;
+    font-size:bold;
+}
+/*  banner section style */
+ .banner-section{
+         text-align:center;
+         margin: 100px 70px;
+ }
+
+ .section-title{
+    font-size: 50px;
+    font-size:bold;
+    margin-bottom:20px;
+ }
+ /*  action style */
+
+ .action{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 100px;
+    width: 1140px;
+    height: 328px;
+    margin-bottom: 40px;
+
+ }
+ .action-profile-pic{
+    width: 403px;
+    height: 328px;
+    border-radius:10px;
+ }
+  .action-title{ 
+     margin:100px;
+ }
+ .action-greeting{
+    font-size:42;
+    font-size:bold;
+ }
+ .action-subtitle{
+    color:darkgrey;
+ }
+
+ /* productive users section */
+
+ .productive-title{
+    font-size: bold;
+    color:black;
+    font-size:25px;
+ }
+ .about{
+    border-radius: 10px;
+    padding: 50px 80px;
+    text-align: center;
+    margin-bottom: 0px;
+ }
+ .about-items{
+    display:flex;
+    justify-content:space-around;
+    margin-bottom:0px;
+ }
+ .item-title{
+    font-size:50px;
+    font-size:block;
+    margin-bottom:0p
+ }
+ .secondary-bg {
+    background-color: #4e47ff10;
+    width: 1140px;
+    height: 306px;
+}
+
+/* 5 let' Get in touch Section*/
+.touch1 {
+    display: flex;
+    justify-content: space-around;
+    width: 1140px;
+    height: 632px;
+    margin-top: 40px;
+}
+
+section.touch-title {
+    width: 528px;
+    font-size: 97px;
+    height: 232px;
+    font-family: Raleway;
+    font-weight: bold;
+    line-height: 120%;
+}
+.touch-about{
+   width: 497px;
+   height: 102px;
+}
+
+
+
+/*  fooder */
