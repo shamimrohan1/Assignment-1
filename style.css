@@ -10,8 +10,11 @@ body{
 .btn-primary{
     background-color:#4E47FF;
     border-radius:5px;
+}
 
-
+.btn-primary:hover{
+    background-color:#050341;
+    border-radius:5px;
 }
 
 .header{
@@ -33,7 +36,8 @@ body{
 }
 .controler{
     color:#4E47FF;
-    font-size:bold;
+    font-size: 34px;
+    font-weight: bold;
 }
 /*  banner section style */
  .banner-section{
@@ -92,9 +96,10 @@ body{
     margin-bottom:0px;
  }
  .item-title{
-    font-size:50px;
+    font-size:80px;
     font-size:block;
-    margin-bottom:0p
+   color:#4E47FF;
+    margin-bottom:0px;
  }
  .secondary-bg {
     background-color: #4e47ff10;
